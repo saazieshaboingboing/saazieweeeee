@@ -18,6 +18,7 @@ Here, several projects are highlighted that demonstrate how digital mapping can 
 
 ---
 ### 🤝 *Maps are not merely tools for navigation—they are ways of understanding relationships between everyone, everything, spanning across every environment.*
+![Winnie the Pooh's Home, Mapped](HundredAcreWoods.jpg)
 ---
 
 
