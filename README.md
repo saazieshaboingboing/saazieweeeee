@@ -17,9 +17,8 @@ Here, several projects are highlighted that demonstrate how digital mapping can 
 
 
 ---
-
-
 ### 🤝 *Maps are not merely tools for navigation—they are ways of understanding relationships between everyone, everything, spanning across every environment.*
+---
 
 
 # ✧･ﾟ: *✧･ﾟ:* GIS Portfolio *:･ﾟ✧*:･ﾟ✧
