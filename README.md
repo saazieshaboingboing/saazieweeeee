@@ -63,3 +63,13 @@ This project identified areas in Flint, Michigan that face the greatest risk of 
 * Dissolve operations
 * Environmental risk modeling
 * Cartographic layout design
+
+
+---
+
+
+# 🌱 Looking Ahead
+
+*Thank you for taking the time to explore my introductory GIS portfolio. These projects represent the beginning of my journey into spatial analysis and cartographic storytelling. As I continue studying Environmental Studies at Temple University and progress my original research, I look forward to expanding this repository with more advanced GIS projects focused on sustainability, environmental justice, and community-centered planning.*
+
+*I hope each new map continues to deepen my understanding of the relationships between everyone, everything, and every environment we share.*
