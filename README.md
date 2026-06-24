@@ -22,7 +22,7 @@ Here, several projects are highlighted that demonstrate how digital mapping can 
 ---
 
 
-🗃️ # ✧･ﾟ: *✧･ﾟ:* GIS Portfolio *:･ﾟ✧*:･ﾟ✧ 📂
+# 🗃️ ✧･ﾟ: *✧･ﾟ:* GIS Portfolio *:･ﾟ✧*:･ﾟ✧ 📂
 
 
 ## 🗽 One of my first maps illustrates Hispanic-American population density throughout each U.S. state:
