@@ -25,7 +25,8 @@ Skills Developed:
 
 ![Mapping Demographic Data](PopulationDensity.jpg)
 
-🪦 Another map exhibits homicide rate density in the city of Chicago:
+🪦 Another map exhibits the homicide density in the city of Chicago:
+![Mapping Demographic Data](HomocideDensity.jpg)
 
 ☠️ And my final map displays areas that are at the highest of risks for toxic (lead polluted) water exposure in Michigan:
 
