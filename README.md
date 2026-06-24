@@ -7,13 +7,10 @@ Throughout this semester, I used GIS to explore questions related to environment
 Skills Developed
 
 * Spatial Analysis
-* Buffer Analysis
-* Site Suitability Modeling
-* Spatial Joins
-* Cartographic Design
+* Digital Cartographic Design
 * Environmental Risk Assessment
 * Data Visualization
-* GIS Storytelling
+
 
 ---
 
