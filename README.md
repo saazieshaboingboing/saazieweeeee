@@ -17,15 +17,15 @@ Here, several projects are highlighted that demonstrate how digital mapping can 
 
 
 ---
-### 🤝 *Maps are not merely tools for navigation—they are ways of understanding relationships between everyone, everything, spanning across every environment.*
+### 🤝 *Maps are not merely tools for navigation—they are ways of understanding relationships between everyone, everything, spanning across every environment.* 🍯
 ![Winnie the Pooh's Home, Mapped](HundredAcreWoods.jpg)
 ---
 
 
-# ✧･ﾟ: *✧･ﾟ:* GIS Portfolio *:･ﾟ✧*:･ﾟ✧
+🗃️ # ✧･ﾟ: *✧･ﾟ:* GIS Portfolio *:･ﾟ✧*:･ﾟ✧ 📂
 
 
-## 🗽 One of my first maps illustrates Hispanic-American population density throughout the Contiguous United States of America:
+## 🗽 One of my first maps illustrates Hispanic-American population density throughout each U.S. state:
 
 ![Mapping Demographic Data](PopulationDensity.jpg)
 
