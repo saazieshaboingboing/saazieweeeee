@@ -2,9 +2,9 @@
 
 Welcome! This portfolio showcases selected GIS projects I completed during Summer I 2026.
 
-Throughout this semester, I used GIS to map valuable information related to, community accessibility, demographic data, and environmental health. Each project combines geographic analysis with real-world problem solving and reflects the skills I developed in ArcGIS Pro.
+Throughout this semester, I used GIS to map valuable information related to community accessibility, demographic data, and environmental health. Each project combines geographic analysis with real-world problem solving and reflects the skills I developed in ArcGIS Pro.
 
-Skills Developed
+Skills Developed:
 
 * Spatial Analysis
 * Digital Cartographic Design
