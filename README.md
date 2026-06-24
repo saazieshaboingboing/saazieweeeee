@@ -2,7 +2,7 @@
 
 Welcome! This portfolio showcases selected GIS projects I completed during Summer I 2026.
 
-Throughout this semester, I used GIS to map valuable information related to community accessibility, demographic data, and environmental health. Each project combines geographic analysis with real-world problem solving and reflects the skills I developed in ArcGIS Pro.
+Throughout this semester, I used GIS to map valuable information related to demographic data, community crime, and environmental health. Each project combines geographic analysis with real-world problem solving and reflects the skills I developed in ArcGIS Pro.
 
 Skills Developed:
 
@@ -21,13 +21,11 @@ Skills Developed:
 ---
 
 
-🚲 Here is where I began; a map outlining Philadelphia schools with the highest rates of student enrollment that are likewise close to the city's expansive and accesible bike network:
+🗽 One of my first maps illustrates Hispanic-American population density throughout the Contiguous United States of America:
 
-![Mapping Clean Transit Accessibility](FirstEverMap.jpg)
+![Mapping Demographic Data](PopulationDensity.jpg)
 
-🗽 I made another map not too long after, illustrating Hispanic-American population density throughout the Contiguous United States of America:
-
-![Mapping Demographic Data](HispanicPopulation.jpg)
+🪦 Another map exhibits homicide rate density in the city of Chicago:
 
 ☠️ And my final map displays areas that are at the highest of risks for toxic (lead polluted) water exposure in Michigan:
 
